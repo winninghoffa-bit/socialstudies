@@ -1,0 +1,46 @@
+[
+  {
+    "from": "L086",
+    "to": "L093",
+    "label": "Hampton context",
+    "sourceIds": [
+      "anderson1988",
+      "smith1995"
+    ]
+  },
+  {
+    "from": "L093",
+    "to": "L099",
+    "label": "Institutional transfer to 1916",
+    "sourceIds": [
+      "anderson1988",
+      "lybarger1983"
+    ]
+  },
+  {
+    "from": "L099",
+    "to": "L100",
+    "label": "Contested interpretation",
+    "sourceIds": [
+      "lybarger1983",
+      "fallace2009"
+    ]
+  },
+  {
+    "from": "L091",
+    "to": "L092",
+    "label": "Competing visions of education",
+    "sourceIds": [
+      "anderson1988"
+    ]
+  },
+  {
+    "from": "L095",
+    "to": "L030",
+    "label": "Teacher preparation and certification",
+    "sourceIds": [
+      "anderson1988",
+      "jacobs2013"
+    ]
+  }
+]

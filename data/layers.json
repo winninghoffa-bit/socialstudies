@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "L001",
+    "number": 1,
+    "title": "The examination and the rank",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the examination and the rank become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L002",
+    "number": 2,
+    "title": "The invention of comparability",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the invention of comparability become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L003",
+    "number": 3,
+    "title": "The measurable student",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the measurable student become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L004",
+    "number": 4,
+    "title": "The moral economy of the grade",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the moral economy of the grade become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L005",
+    "number": 5,
+    "title": "The grade as currency",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the grade as currency become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L006",
+    "number": 6,
+    "title": "The struggle over educational value",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the struggle over educational value become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L007",
+    "number": 7,
+    "title": "Republican civic instruction",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did republican civic instruction become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L008",
+    "number": 8,
+    "title": "Textbooks and national identity",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did textbooks and national identity become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L009",
+    "number": 9,
+    "title": "History as school knowledge",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did history as school knowledge become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L010",
+    "number": 10,
+    "title": "The emergence of social science",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the emergence of social science become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L011",
+    "number": 11,
+    "title": "Community civics",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did community civics become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L012",
+    "number": 12,
+    "title": "Problems of democracy",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did problems of democracy become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L013",
+    "number": 13,
+    "title": "The 1916 committee",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the 1916 committee become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L014",
+    "number": 14,
+    "title": "The formation of NCSS",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the formation of ncss become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L015",
+    "number": 15,
+    "title": "Progressive educational thought",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did progressive educational thought become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L016",
+    "number": 16,
+    "title": "The professionalization of history",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the professionalization of history become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L017",
+    "number": 17,
+    "title": "Teacher certification",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did teacher certification become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L018",
+    "number": 18,
+    "title": "Normal schools",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did normal schools become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L019",
+    "number": 19,
+    "title": "Disciplinary boundaries",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did disciplinary boundaries become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L020",
+    "number": 20,
+    "title": "Social reconstruction",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did social reconstruction become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L021",
+    "number": 21,
+    "title": "Citizenship transmission",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did citizenship transmission become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L022",
+    "number": 22,
+    "title": "Historical inquiry",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did historical inquiry become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L023",
+    "number": 23,
+    "title": "Racialized citizenship",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did racialized citizenship become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L024",
+    "number": 24,
+    "title": "Curricular authority",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did curricular authority become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L025",
+    "number": 25,
+    "title": "State standards",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did state standards become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L026",
+    "number": 26,
+    "title": "Tribal sovereignty",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did tribal sovereignty become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L027",
+    "number": 27,
+    "title": "Curricular contestation",
+    "sourceIds": [
+      "provisional"
+    ],
+    "locator": "Source mapping pending",
+    "era": "18th\u201321st c.",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did curricular contestation become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L028",
+    "number": 28,
+    "title": "The professionalization of historical knowledge",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 8\u201311",
+    "era": "1890\u20131910",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the professionalization of historical knowledge become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L029",
+    "number": 29,
+    "title": "The certification of the qualified teacher",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 12\u201314",
+    "era": "1900\u20131920",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the certification of the qualified teacher become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L030",
+    "number": 30,
+    "title": "Disciplinary and pedagogical authority",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 15\u201318",
+    "era": "1900\u20131920",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did disciplinary and pedagogical authority become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L031",
+    "number": 31,
+    "title": "The teacher-preparation paradox of 1916",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 19\u201321",
+    "era": "1916\u20131920",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the teacher-preparation paradox of 1916 become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L032",
+    "number": 32,
+    "title": "The persistence of disciplinary boundaries",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 20\u201324",
+    "era": "1920s",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the persistence of disciplinary boundaries become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L033",
+    "number": 33,
+    "title": "Progressive pedagogy and teacher preparation",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 23\u201326",
+    "era": "1920s",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did progressive pedagogy and teacher preparation become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L034",
+    "number": 34,
+    "title": "The architecture of teacher preparation",
+    "sourceIds": [
+      "jacobs2013"
+    ],
+    "locator": "pp. 1\u20134",
+    "era": "20th c.",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the architecture of teacher preparation become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L035",
+    "number": 35,
+    "title": "Disciplinary truth and educational value",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 1, pp. 5\u201328",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did disciplinary truth and educational value become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L036",
+    "number": 36,
+    "title": "The politics of curricular neutrality",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 2, pp. 29\u201348",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the politics of curricular neutrality become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L037",
+    "number": 37,
+    "title": "The regulation of professional conscience",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 3, pp. 49\u201374",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the regulation of professional conscience become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L038",
+    "number": 38,
+    "title": "The normalization of the family",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 4, pp. 75ff.",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the normalization of the family become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L039",
+    "number": 39,
+    "title": "The production of national heroes",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 6, pp. 115ff.",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the production of national heroes become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L040",
+    "number": 40,
+    "title": "Historical experience as classroom simulation",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 7, pp. 139ff.",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did historical experience as classroom simulation become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L041",
+    "number": 41,
+    "title": "The governance of curricular time",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 8, pp. 163ff.",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the governance of curricular time become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L042",
+    "number": 42,
+    "title": "The boundaries of permissible knowledge",
+    "sourceIds": [
+      "rodriguez"
+    ],
+    "locator": "ch. 9, pp. 185ff.",
+    "era": "Contemporary",
+    "theme": "Curriculum & identity",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the boundaries of permissible knowledge become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L043",
+    "number": 43,
+    "title": "Transmission and transformation",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 2, pp. 17\u201324",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did transmission and transformation become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L044",
+    "number": 44,
+    "title": "The curriculum wars",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 3, pp. 25\u201334",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the curriculum wars become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L045",
+    "number": 45,
+    "title": "The authority to interpret history",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 4, pp. 35\u201342",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the authority to interpret history become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L046",
+    "number": 46,
+    "title": "Accountability and curricular visibility",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 5, pp. 43\u201352",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did accountability and curricular visibility become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L047",
+    "number": 47,
+    "title": "The construction of intellectual competence",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "chs. 6 and 8",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the construction of intellectual competence become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L048",
+    "number": 48,
+    "title": "Race, identity, and historical belonging",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 12, pp. 113\u2013119",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did race, identity, and historical belonging become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L049",
+    "number": 49,
+    "title": "Patriotism and civic subject formation",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 13, pp. 120\u2013126",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did patriotism and civic subject formation become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L050",
+    "number": 50,
+    "title": "The unequal distribution of civic opportunity",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "chs. 20\u201322",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the unequal distribution of civic opportunity become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L051",
+    "number": 51,
+    "title": "The regulation of controversial discussion",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 28, pp. 257\u2013265",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the regulation of controversial discussion become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L052",
+    "number": 52,
+    "title": "The governable teacher",
+    "sourceIds": [
+      "parker2015"
+    ],
+    "locator": "ch. 29, pp. 266\u2013274",
+    "era": "20th\u201321st c.",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the governable teacher become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L053",
+    "number": 53,
+    "title": "The naming of Indigenous peoples",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "Shear & Stanton, \u201cIndigenous,\u201d pp. 3\u201316",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the naming of indigenous peoples become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L054",
+    "number": 54,
+    "title": "The organization of historical time",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "Helmsing & Whitlock, \u201cTime,\u201d pp. 37\u201346",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the organization of historical time become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L055",
+    "number": 55,
+    "title": "Territorial knowledge",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "\u201cBorders,\u201d \u201cPlace,\u201d \u201cSpace\u201d",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did territorial knowledge become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L056",
+    "number": 56,
+    "title": "The classification of identities",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "\u201cGender,\u201d \u201cRace,\u201d \u201cSexuality\u201d",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the classification of identities become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L057",
+    "number": 57,
+    "title": "The normative family",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "Adams, \u201cFamily,\u201d pp. 169\u2013180",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the normative family become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L058",
+    "number": 58,
+    "title": "Democracy as a curricular object",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "Lo & Geiger, \u201cDemocracy,\u201d pp. 197\u2013206",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did democracy as a curricular object become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L059",
+    "number": 59,
+    "title": "Freedom and political subjectivity",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "Kean & Craig, \u201cFreedom,\u201d pp. 207\u2013216",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did freedom and political subjectivity become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L060",
+    "number": 60,
+    "title": "The naming of political violence",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "Journell, \u201cTerrorism,\u201d pp. 217\u2013230",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the naming of political violence become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L061",
+    "number": 61,
+    "title": "The economic citizen",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "\u201cConsumption,\u201d \u201cClass,\u201d \u201cEntrepreneurship\u201d",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the economic citizen become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L062",
+    "number": 62,
+    "title": "Technological and mediated knowledge",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "\u201cTechnology,\u201d \u201cMedia\u201d",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did technological and mediated knowledge become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L063",
+    "number": 63,
+    "title": "The global and the national",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "\u201cGlobal,\u201d \u201cImmigration\u201d",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the global and the national become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L064",
+    "number": 64,
+    "title": "The production of civic discourse",
+    "sourceIds": [
+      "keywords2018"
+    ],
+    "locator": "\u201cDiscourse,\u201d \u201cCitizenship\u201d",
+    "era": "Historical\u2013contemporary",
+    "theme": "Concepts & classifications",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the production of civic discourse become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L065",
+    "number": 65,
+    "title": "The production of curriculum",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Ross introduction, pp. 1\u20137",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the production of curriculum become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L066",
+    "number": 66,
+    "title": "The invention of curricular traditions",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Ross introduction, pp. 8\u201313",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the invention of curricular traditions become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L067",
+    "number": 67,
+    "title": "The political curriculum",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Au, pp. 31\u201348",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the political curriculum become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L068",
+    "number": 68,
+    "title": "Historical agency and imagined futures",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "den Heyer, pp. 49\u201370",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did historical agency and imagined futures become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L069",
+    "number": 69,
+    "title": "The mediation of social knowledge",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Marmol, pp. 71\u2013106",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the mediation of social knowledge become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L070",
+    "number": 70,
+    "title": "The nation-state and Black educational thought",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Busey & Dowie-Chin, pp. 107\u2013124",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the nation-state and black educational thought become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L071",
+    "number": 71,
+    "title": "The regulation of Black history",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "King, Pitts & Tulino, pp. 125\u2013146",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the regulation of black history become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L072",
+    "number": 72,
+    "title": "Whiteness as curricular authority",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Hawkman, pp. 147\u2013164",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did whiteness as curricular authority become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L073",
+    "number": 73,
+    "title": "Decolonial literacy",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Leddy, pp. 165\u2013178",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did decolonial literacy become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L074",
+    "number": 74,
+    "title": "Settler social studies",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Shear & Sabzalian, pp. 179\u2013206",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did settler social studies become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L075",
+    "number": 75,
+    "title": "The regulation of gender and sexuality",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Schmidt, pp. 207\u2013232",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the regulation of gender and sexuality become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L076",
+    "number": 76,
+    "title": "Religious belonging and exclusion",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Sensoy, pp. 233\u2013256",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did religious belonging and exclusion become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L077",
+    "number": 77,
+    "title": "Historical inquiry and narrative authority",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Salinas & Blevins, pp. 257\u2013278",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did historical inquiry and narrative authority become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L078",
+    "number": 78,
+    "title": "Moral classification",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "van Kessel, pp. 279\u2013296",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did moral classification become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L079",
+    "number": 79,
+    "title": "Economic and ecological subjectivities",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "Adams; Edwards-Schuth & Lupinacci, pp. 297\u2013344",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did economic and ecological subjectivities become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L080",
+    "number": 80,
+    "title": "The limits of citizenship",
+    "sourceIds": [
+      "ross2024"
+    ],
+    "locator": "McCafferty-Wright; Ross, pp. 345\u2013380",
+    "era": "Historical\u2013contemporary",
+    "theme": "Citizenship & power",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the limits of citizenship become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L081",
+    "number": 81,
+    "title": "The republican citizen",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "early republic discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the republican citizen become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L082",
+    "number": 82,
+    "title": "The textbook as an instrument of nation-making",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "1784\u201319th c. textbook discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the textbook as an instrument of nation-making become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L083",
+    "number": 83,
+    "title": "The racialized geography of national belonging",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "Goodrich textbook discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the racialized geography of national belonging become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L084",
+    "number": 84,
+    "title": "The professional authority of historians",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "AHA and committees discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the professional authority of historians become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L085",
+    "number": 85,
+    "title": "Social sciences and contemporary problems",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "professional associations discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did social sciences and contemporary problems become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L086",
+    "number": 86,
+    "title": "The Hampton experiment",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "Hampton and Jones discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "What were the relationships among Hampton, racialized educational governance, and social studies problem-centered pedagogy?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L087",
+    "number": 87,
+    "title": "The reorganization of secondary education",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "NEA commission discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the reorganization of secondary education become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L088",
+    "number": 88,
+    "title": "The present as a curricular object",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "Robinson and 1916 report discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the present as a curricular object become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L089",
+    "number": 89,
+    "title": "The transfer of curricular authority",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "NCSS formation discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the transfer of curricular authority become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L090",
+    "number": 90,
+    "title": "The contested independence of social studies",
+    "sourceIds": [
+      "smith1995"
+    ],
+    "locator": "NCSS and AHA discussion",
+    "era": "1783\u20131921",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the contested independence of social studies become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L091",
+    "number": 91,
+    "title": "Black educational self-determination",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 1, pp. 18\u201345",
+    "era": "1860\u20131880",
+    "theme": "Black educational agency",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "How did formerly enslaved people establish and defend schools as collective projects of freedom and self-determination?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L092",
+    "number": 92,
+    "title": "Competing educational freedoms",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "chs. 1\u20132, pp. 18\u201391",
+    "era": "1860\u20131915",
+    "theme": "Black educational agency",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did competing educational freedoms become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L093",
+    "number": 93,
+    "title": "Hampton and the formation of teachers",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 2, pp. 46\u201391",
+    "era": "1868\u20131915",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "How did the Hampton model join manual labor routines, moral formation, and the preparation of Black teachers?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L094",
+    "number": 94,
+    "title": "Philanthropy and educational hegemony",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 3, pp. 92\u2013122",
+    "era": "1890\u20131915",
+    "theme": "Black educational agency",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "How did northern philanthropy and southern educational reform reshape racialized schooling and labor relations?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L095",
+    "number": 95,
+    "title": "The teacher-training apparatus",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 4, pp. 123\u2013157",
+    "era": "1900\u20131935",
+    "theme": "Teacher formation",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the teacher-training apparatus become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L096",
+    "number": 96,
+    "title": "The unequal construction of universal schooling",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 5, pp. 158\u2013191",
+    "era": "1900\u20131935",
+    "theme": "Black educational agency",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did the unequal construction of universal schooling become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L097",
+    "number": 97,
+    "title": "Secondary education and caste reproduction",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 6, pp. 192\u2013238",
+    "era": "1880\u20131935",
+    "theme": "Black educational agency",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did secondary education and caste reproduction become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L098",
+    "number": 98,
+    "title": "Liberal culture and Black intellectual leadership",
+    "sourceIds": [
+      "anderson1988"
+    ],
+    "locator": "ch. 7, pp. 239\u2013278",
+    "era": "1900\u20131935",
+    "theme": "Black educational agency",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "Through what historical practices, institutional arrangements, conflicts, and forms of knowledge did liberal culture and black intellectual leadership become possible or contested?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L099",
+    "number": 99,
+    "title": "Hampton\u2019s curricular migration",
+    "sourceIds": [
+      "lybarger1983"
+    ],
+    "locator": "pp. 455\u2013468",
+    "era": "1900\u20131916",
+    "theme": "Origins & institutions",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "What curricular practices traveled from Hampton through Thomas Jesse Jones to the 1916 committee, and what changed along the way?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  },
+  {
+    "id": "L100",
+    "number": 100,
+    "title": "The historiography of social studies",
+    "sourceIds": [
+      "fallace2009"
+    ],
+    "locator": "pp. 601\u2013624",
+    "era": "1916\u2013present",
+    "theme": "Historiography",
+    "status": "research-question",
+    "kind": "interpretive prompt",
+    "question": "How do the competing humanist, social-control, anti-intellectual, and democratic-progressive readings of 1916 change the history we tell?",
+    "note": "Provisional genealogical research question. The cited work is an entry point, not proof of a singular origin."
+  }
+]
